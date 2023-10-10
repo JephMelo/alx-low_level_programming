@@ -1,0 +1,3 @@
+
+nacci.c:52: WARNING: More than 40 lines in a function
+104-fibonacci.c:53: WARNING: More than 40 lines in a function
