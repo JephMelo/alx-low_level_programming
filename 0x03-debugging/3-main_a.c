@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "msin.h"
+#include "main.h"
 
 /**
  * msin - takes a date and prints how many days are left in the year, taking
