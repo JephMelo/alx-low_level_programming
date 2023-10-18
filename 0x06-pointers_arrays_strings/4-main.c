@@ -3,6 +3,7 @@
 
 /**
  * main - check the code
+ * print_array: prints the necessary code
  * @a: an array of integers
  * @n: the number of elements to swap
  *
