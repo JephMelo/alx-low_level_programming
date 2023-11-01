@@ -20,7 +20,7 @@ int count_word(char *s)
 	else if (flag == 0)
 	{
 	flag = 1;
-	++;
+	w++;
 	}
 	}
 
@@ -55,7 +55,7 @@ char **strtow(char *str)
 			if (c)
 			{
 				end = i;
-i				tmp = (char *) malloc(sizeof(char) * (c + 1));
+				tmp = (char *) malloc(sizeof(char) * (c + 1));
 				if (tmp == NULL)
 					return (NULL);
 				while (start < end)
